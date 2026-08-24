@@ -20,6 +20,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+#define MASTER_LEFT
+
 #define VIAL_KEYBOARD_UID {0x29, 0x5D, 0x3B, 0x5C, 0xEF, 0x60, 0xB4, 0x69}
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 1, 4 }
